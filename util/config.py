@@ -1,0 +1,3 @@
+PORT = 8080
+ADRESS = '0.0.0.0'
+DEBUG = True
