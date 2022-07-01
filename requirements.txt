@@ -8,7 +8,7 @@ itsdangerous==0.24
 Jinja2==2.9.6
 jsonschema==2.6.0
 MarkupSafe==1.0
-mistune==0.7.4
+mistune==0.8.1
 pymongo==3.4.0
 PyYAML==3.12
 requests==2.18.1
